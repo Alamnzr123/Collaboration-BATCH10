@@ -5,3 +5,4 @@ function tambah() {
 }
 
 tambah(2); 
+console.log("Admin");
