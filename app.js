@@ -3,4 +3,4 @@ function tambah(num) {
 }
 
 console.log(tambah(2)); 
-console.log("push dari julio")
+console.log("push ke alip")
