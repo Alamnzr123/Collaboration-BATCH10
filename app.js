@@ -1,3 +1,2 @@
-
-console.log("halooo");
-console.log("hai");
+console.log(tambah(2)); 
+console.log("push ke alip")
